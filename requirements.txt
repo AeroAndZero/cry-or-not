@@ -1,0 +1,7 @@
+numpy
+pafy
+moviepy
+librosa
+matplotlib
+keras
+scikit-learn
